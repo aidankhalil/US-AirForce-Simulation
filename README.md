@@ -11,7 +11,7 @@ Built a subsystem-level process mapping simulation in AnyLogic to optimize progr
 - Tuned parameters to compare baseline vs. functional cell models, producing simulation-based recommendations to optimize workforce structure.
 
 ## Technologies & Skills Used
-AnyLogic, discrete-event simulation, process optimization, basic Java, UI/UX development, queue based operations
+AnyLogic, discrete-event simulation, process optimization, Java, UI/UX development, queue based operations
 
 ## How to Install / Setup Instructions
 1. Click the green **Code** button in this repository.
@@ -26,20 +26,15 @@ AnyLogic, discrete-event simulation, process optimization, basic Java, UI/UX dev
    - `MXDEI Model.xlsx`
    - `Profiles.xlsx`
    - `database` folder (includes `db.properties` and `db.script`)
-4. With the model open, click the green **Play** button (or press **F5**) to run the simulation.
+4. With the model open, click the green **Play** button (or press **F5**) to run the simulation. (Note: An entire workyear is simulated, it is recommended to turn the simulation speed to atleast 5x)
 
-## Screenshots
+## Directory Screenshots
 
 **Simulation Folder**  
 ![folder1](https://github.com/user-attachments/assets/4aa88b3e-c54d-4284-9586-6ae21506fb41)
 
 **Database Folder**  
 ![folder2](https://github.com/user-attachments/assets/9198705e-8763-412f-9c1c-3888c0efc9c8)
-
-**Simulation Running in AnyLogic**  
-![final-view](https://github.com/user-attachments/assets/d1b28b34-e546-4b49-8cd5-1836f11f04ec)
-
-
 
 
 
