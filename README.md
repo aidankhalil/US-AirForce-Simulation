@@ -1,17 +1,19 @@
-# USAF x USF Capstone Project 2025
+# USAF x USF Capstone Project Spring 2025
+# Systems Simulation Developer – United States Air Force, Warner Robins ALC
 
-## Project Overview
-This repository contains the final version of an AnyLogic process mapping simulation developed for the United States Air Force (USAF).  
+**Duration:** Feb 2025 – Apr 2025
 
-The simulation is designed to optimize Program Manager (PM) allocation across critical processes (referred to as *teams/gates*) at Warner Robins Air Logistics Complex (WR-ALC), using data-driven insights provided by the MXSG team.
+## Overview
+Built a subsystem-level process mapping simulation in AnyLogic to optimize program manager allocation and test a new workflow model for the United States Air Force’s 402nd MXSG.
 
-## Contributors
-- [Matthew Chiaradio](https://github.com/matthewchiaradio)
-- [Villa Keth](https://github.com/villaketh)
-- [Aidan Khalil](https://github.com/aidankhalil)
-- [Christopher Mitchell](https://github.com/chrismitchell027)
+## Features
+- Parsed and structured real ALC personnel data to simulate bottlenecks, idle states, and resource handoffs under mission-relevant load conditions.
+- Tuned parameters to compare baseline vs. functional cell models, producing simulation-based recommendations to optimize workforce structure.
 
-## How to Install
+## Technologies & Skills Used
+AnyLogic, discrete-event simulation, process optimization, basic Java, UI/UX development, queue based operations
+
+## How to Install / Setup Instructions
 1. Click the green **Code** button in this repository.
 2. Select **Download ZIP**.
 3. Locate the downloaded file, right-click it, and choose **Extract All**.
@@ -43,8 +45,16 @@ The simulation is designed to optimize Program Manager (PM) allocation across cr
 
 
 
-### Disclaimer
 
+
+## Contributors
+- [Aidan Khalil](https://github.com/aidankhalil)
+- [Matthew Chiaradio](https://github.com/matthewchiaradio)
+- [Villa Keth](https://github.com/villaketh)
+- [Christopher Mitchell](https://github.com/chrismitchell027)
+
+
+### Disclaimer
 This project was developed entirely using the AnyLogic Personal Learning Edition (PLE).  
 It is intended for **educational and non-commercial purposes only**, in accordance with the AnyLogic PLE license agreement.  
 No part of this work is intended for professional, commercial, or for-profit use.
