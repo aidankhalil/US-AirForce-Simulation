@@ -1,5 +1,5 @@
-# USAF x USF Capstone Project Spring 2025
-# Systems Simulation Developer – United States Air Force, Warner Robins ALC
+# USAF x USF Capstone/Senior Project Spring 2025
+# Process Mapping Simulation – United States Air Force, Warner Robins ALC
 
 **Duration:** Feb 2025 – Apr 2025
 
